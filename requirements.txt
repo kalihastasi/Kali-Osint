@@ -1,0 +1,14 @@
+rich
+requests
+aiohttp
+dnspython
+python-whois
+beautifulsoup4
+colorama
+pyfiglet
+exifread
+PyPDF2
+python-docx
+geoip2
+fake-useragent
+lxml

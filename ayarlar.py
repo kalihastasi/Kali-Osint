@@ -1,0 +1,2 @@
+ZAMAN_ASIMI = 10
+CIKTI_KLASORU = "cikti"
